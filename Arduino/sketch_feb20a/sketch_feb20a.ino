@@ -4,7 +4,7 @@
 const char* nombre = "Getxo Bela Eskola";
  
 //Password
-const char* password = "navegacion";
+const char* password = "";
  
 //Puerto (dejar en 80 por defecto)
 WiFiServer server(80);
