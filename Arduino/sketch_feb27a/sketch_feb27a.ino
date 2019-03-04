@@ -4,7 +4,7 @@
  
 // Replace with your network credentials
 const char* ssid = "Getxo Bela Eskola";
-const char* password = "navegacion";
+const char* password = "";
  
 ESP8266WebServer server(80);   //instantiate server at port 80 (http port)
  
